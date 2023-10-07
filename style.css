@@ -11,6 +11,12 @@ text-transform: uppercase;
 color: #000000;
 font-weight: bold;
 font-size: 22px;
+
+nav {
+position:absolute;
+top : 0;
+right: 0;
+}
 text-decoration: none;
 }
 
